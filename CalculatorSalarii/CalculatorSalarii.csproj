@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{779C370E-E13E-49A4-A10E-5E16E24F422D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CalculatorSalarii</RootNamespace>
+    <AssemblyName>CalculatorSalarii</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.143\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalculatorSalariiDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CalculatorSalariiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CalculatorSalariiDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CalculatorSalariiDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CalculatorSalariiDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CalculatorSalariiDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CalculatorSalariiDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CalculatorSalariiDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CalculatorSalariiDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CalculatorSalariiDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Clase\DatePlataSalarii.cs" />
+    <Compile Include="Clase\Utilizator.cs" />
+    <Compile Include="Formulare\CautarePlataSalariu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulare\CautarePlataSalariu.Designer.cs">
+      <DependentUpon>CautarePlataSalariu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clase\Conectare.cs" />
+    <Compile Include="Clase\DateAngajati.cs" />
+    <Compile Include="Formulare\Convertor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulare\Convertor.Designer.cs">
+      <DependentUpon>Convertor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulare\DetaliiSalariati.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulare\DetaliiSalariati.Designer.cs">
+      <DependentUpon>DetaliiSalariati.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulare\InregistrareUtilizatori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulare\InregistrareUtilizatori.Designer.cs">
+      <DependentUpon>InregistrareUtilizatori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulare\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulare\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulare\Rapoarte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulare\Rapoarte.Designer.cs">
+      <DependentUpon>Rapoarte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formulare\TablouPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulare\TablouPrincipal.Designer.cs">
+      <DependentUpon>TablouPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clase\ProcesareDate.cs" />
+    <Compile Include="Formulare\PontajOre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulare\PontajOre.Designer.cs">
+      <DependentUpon>PontajOre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Formulare\Salarii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulare\Salarii.Designer.cs">
+      <DependentUpon>Salarii.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Formulare\CautarePlataSalariu.resx">
+      <DependentUpon>CautarePlataSalariu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulare\Convertor.resx">
+      <DependentUpon>Convertor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulare\DetaliiSalariati.resx">
+      <DependentUpon>DetaliiSalariati.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulare\InregistrareUtilizatori.resx">
+      <DependentUpon>InregistrareUtilizatori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulare\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulare\PontajOre.resx">
+      <DependentUpon>PontajOre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulare\Rapoarte.resx">
+      <DependentUpon>Rapoarte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulare\Salarii.resx">
+      <DependentUpon>Salarii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulare\TablouPrincipal.resx">
+      <DependentUpon>TablouPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="CalculatorSalariiDataSet.xsc">
+      <DependentUpon>CalculatorSalariiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CalculatorSalariiDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CalculatorSalariiDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CalculatorSalariiDataSet.xss">
+      <DependentUpon>CalculatorSalariiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CalculatorSalariiDataSet1.xsc">
+      <DependentUpon>CalculatorSalariiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CalculatorSalariiDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CalculatorSalariiDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CalculatorSalariiDataSet1.xss">
+      <DependentUpon>CalculatorSalariiDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CalculatorSalariiDataSet2.xsc">
+      <DependentUpon>CalculatorSalariiDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CalculatorSalariiDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CalculatorSalariiDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CalculatorSalariiDataSet2.xss">
+      <DependentUpon>CalculatorSalariiDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CalculatorSalariiDataSet3.xsc">
+      <DependentUpon>CalculatorSalariiDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CalculatorSalariiDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CalculatorSalariiDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CalculatorSalariiDataSet3.xss">
+      <DependentUpon>CalculatorSalariiDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CalculatorSalariiDataSet4.xsc">
+      <DependentUpon>CalculatorSalariiDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="CalculatorSalariiDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CalculatorSalariiDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CalculatorSalariiDataSet4.xss">
+      <DependentUpon>CalculatorSalariiDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\enterprise.png" />
+    <Content Include="Resources\information-button.png" />
+    <Content Include="Resources\man-ga2e6eec2b_640.jpg" />
+    <Content Include="Resources\man-ga2e6eec2b_640.png" />
+    <Content Include="Resources\woman-g17e284cc3_640.jpg" />
+    <Content Include="Resources\woman-g17e284cc3_640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note-contabile-2019.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turn-off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wages.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

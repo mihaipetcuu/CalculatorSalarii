@@ -1,0 +1,69 @@
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\bin\Debug\CalculatorSalarii.exe.config
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\bin\Debug\CalculatorSalarii.exe
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\bin\Debug\CalculatorSalarii.pdb
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\bin\Debug\MaterialSkin.dll
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.AssemblyReference.cache
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.frmTablouPrincipal.resources
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Properties.Resources.resources
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.GenerateResource.cache
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.CoreCompileInputs.cache
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.CopyComplete
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.exe
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.pdb
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.frmDetaliiSalariati.resources
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\bin\Debug\Dapper.dll
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\bin\Debug\Dapper.xml
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmCalculatorSalarii.resources
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmCautarePlataSalariu.resources
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmConvertor.resources
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmPontajOre.resources
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.ResolveComReference.cache
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Formulare.FrmInregistrareUtilizatori.resources
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Formulare.FrmLogin.resources
+D:\MeHigh\CIG\Licenta\Anul 3\Licenta\aplicatie\CalculatorSalarii\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Formulare.FrmRapoarte.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.AssemblyReference.cache
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.ResolveComReference.cache
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmCautarePlataSalariu.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmConvertor.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.frmDetaliiSalariati.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Formulare.FrmInregistrareUtilizatori.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Formulare.FrmLogin.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmPontajOre.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Formulare.FrmRapoarte.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmCalculatorSalarii.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.frmTablouPrincipal.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Properties.Resources.resources
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.GenerateResource.cache
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.CoreCompileInputs.cache
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.exe
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.pdb
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\bin\Debug\CalculatorSalarii.exe.config
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\bin\Debug\CalculatorSalarii.exe
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\bin\Debug\CalculatorSalarii.pdb
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\bin\Debug\Dapper.dll
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\bin\Debug\MaterialSkin.dll
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\bin\Debug\Dapper.xml
+D:\Vasi\Indrumare licenta\2022-2023\Petcu Mihai Dragos\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\bin\Debug\CalculatorSalarii.exe.config
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\bin\Debug\CalculatorSalarii.exe
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\bin\Debug\CalculatorSalarii.pdb
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\bin\Debug\Dapper.dll
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\bin\Debug\Dapper.xml
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmCautarePlataSalariu.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmConvertor.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.frmDetaliiSalariati.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Formulare.FrmInregistrareUtilizatori.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Formulare.FrmLogin.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmPontajOre.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Formulare.FrmRapoarte.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.FrmCalculatorSalarii.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.frmTablouPrincipal.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.exe
+C:\Users\User\Desktop\New folder\CalculatorSalarii\CalculatorSalarii\obj\Debug\CalculatorSalarii.pdb
